@@ -1,7 +1,5 @@
 # Sergio A. Felix
 
-## Overview & Architecture Focus
-
 I am a Computer Science Engineering (ITC) student at ITESM specializing in system-level development, automation, and control systems. My engineering methodology centers on logic-driven architectures, robust state machines, and high-performance software design. With a proven track record of technical leadership in national robotics competitions and a current academic average of 96.3, I focus on building scalable hardware-software integrations. I operate natively in English (C1 certification) and am highly accustomed to rigorous technical documentation.
 
 ## Core Technical Stack
