@@ -87,6 +87,7 @@ I'm a passioned software and systems developer working with <strong>embedded sys
 ### Engineering workflow and deployment
 <p><code>Linux</code> &middot; <code>Docker Desktop</code> &middot; <code>Git</code> &middot; <code>GitHub</code> &middot; <code>CLI Tools</code> &middot; <code>VS Code</code> &middot; <code>Seq Logging</code></p>
 
+<!--
 ## Work Experience
 
 ### FIRST Robotics Competition (FRC) Control Systems
@@ -118,7 +119,7 @@ Academic and competitive hardware integrations focusing on state-based logic and
 * evaluating low-cost industrial IoT concepts using ESP32 microcontrollers;
 * analyzing statistical performance datasets via the Python data science stack;
 * Reviewing and Web Apps scaling backend database architectures and UX/UI.
-
+-->
 ## GitHub activity
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibinfelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub statistics" />
