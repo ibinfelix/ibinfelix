@@ -1,11 +1,9 @@
 <div align="center">
-<blockquote>
   <sup>&nbsp;</sup> <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=FFD31D&width=435&lines=Hello+There%2C+Im+Felix!" alt="Typing SVG" /></a>
     <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=DEDEDE&center=true&width=700&height=45&lines=Computer+Science+Engineering+Student+%40ITESM;Software+%26+Control+Systems+Developer" alt="Typing SVG" /></a>
     <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=2000&color=616161&width=457&height=40&lines=Architect+%C2%B7+Control+%C2%B7+Automate+%C2%B7+Scale" alt="Typing SVG" /></a>
   </p>
-</blockquote>
 </div>
 
 <p align="center">
@@ -14,20 +12,11 @@
   </a>
 </p>
 
-<!--
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random engineering quote" />
-</p>
--->
 ## Profile
 
 > Logic &amp; State Machines &middot; High-Performance Automation &middot; Data Analysis &middot; App & Web Development
 
-<p>I design, develop, and integrate systems that bridge <strong>software architecture, embedded hardware, and high-performance control</strong>. My engineering methodology centers on robust state machines, logic-driven architectures, and scalable hardware-software integrations. Operating natively in English (C1) and Spanish, I am highly accustomed to rigorous technical documentation and agile development workflows.</p>
-
-<p>My current work spans from low-level microcontroller state management and industrial Internet of Things (IoT) prototypes to ROS 2 robotics development in Ubuntu 24.04 LTS environments. I build resilient automation pipelines designed for real-world physical constraints and competitive performance.</p>
-
-<br/>
+I'm a passioned software and systems developer working with <strong>embedded systems and advanced control</strong> for five years in competitive robotics using Java and C++ on different frameworks, and <strong>Applications and Web</strong> for 6+ years using different languages and tech stacks including Python for data science applications, PHP+SQL Back-end for websites, and most recently gaining experience with modern web development using .NET, Angular and other JS Frameworks
 
 ### Systems programming, control and robotics
 <p align="center">
