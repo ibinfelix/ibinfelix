@@ -121,7 +121,4 @@ Academic and competitive hardware integrations focusing on state-based logic and
 * Reviewing and Web Apps scaling backend database architectures and UX/UI.
 -->
 ## GitHub activity
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibinfelix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibinfelix&layout=compact&langs_count=8&theme=algolia" alt="Most used languages" />
-</p>
+![My Top Languages](/github-metrics.svg)
