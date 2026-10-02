@@ -26,6 +26,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage, lines
+
+          # Ignore Greyhawk Vault which adds disproportionate amount of Markdown and HTML lines
+          plugin_languages_skipped: ibinfelix/GreyhawkVault
           
           # Enable indepth mode to analyze actual commit diffs across orgs
           plugin_languages_indepth: yes
