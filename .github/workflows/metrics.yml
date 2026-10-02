@@ -29,6 +29,7 @@ jobs:
 
           # Ignore Greyhawk Vault which adds disproportionate amount of Markdown and HTML lines
           plugin_languages_skipped: ibinfelix/GreyhawkVault
+          plugin_languages_ignored: tex, latex, markdown
           
           # Enable indepth mode to analyze actual commit diffs across orgs
           plugin_languages_indepth: yes
