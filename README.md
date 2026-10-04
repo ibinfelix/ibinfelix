@@ -14,7 +14,7 @@
 
 ## Profile
 
-> Logic &amp; State Machines &middot; High-Performance Automation &middot; Data Analysis &middot; App & Web Development
+> Logic &amp; State Machines &middot; Data Analysis &middot; App & Web Development
 
 I'm a passioned software and systems developer working with <strong>embedded systems and advanced control</strong> for five years in competitive robotics using Java and C++ on different frameworks, and <strong>Applications and Web</strong> for 6+ years using different languages and tech stacks including Python for data science applications, PHP+SQL Back-end for websites, and most recently gaining experience with modern web development using .NET, Angular and other JS Frameworks
 
