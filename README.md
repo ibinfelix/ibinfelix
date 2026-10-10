@@ -42,51 +42,6 @@ I'm a passioned software and systems developer working with <strong>embedded sys
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" title="Linux" alt="Linux" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" title="Git" alt="Git" />&nbsp;&nbsp;
 </p>
-
-<h2>Core capabilities</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Domain</th>
-      <th>Capabilities</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Control and automation</strong></td>
-      <td>Mechanism automation, robust state machines, real-time telemetry pipelines, logic-driven architectures</td>
-    </tr>
-    <tr>
-      <td><strong>Robotics and embedded systems</strong></td>
-      <td>ROS 2 simulation and dependencies, WPILib/GradleRIO integration, ESP32 microcontrollers, serial/Bluetooth protocols, sensor constraints</td>
-    </tr>
-    <tr>
-      <td><strong>Software architecture</strong></td>
-      <td>Object-oriented design, web backend infrastructure (PHP/SQL), Dockerized development (WSL2 backend), technical documentation</td>
-    </tr>
-    <tr>
-      <td><strong>Data and performance analysis</strong></td>
-      <td>Scientific computing, statistical performance metrics visualization, array programming</td>
-    </tr>
-  </tbody>
-</table>
-
-## Technology stack
-
-### Robotics, control and hardware
-
-<p><code>Java</code> &middot; <code>WPILib</code> &middot; <code>GradleRIO</code> &middot; <code>ROS 2 Jazzy Jalisco</code> &middot; <code>C/C++</code> &middot; <code>ESP32</code> &middot; <code>Arduino</code> &middot; <code>Serial/USB/Bluetooth Comms</code></p>
-
-### Software and commercial applications
-<p><code>Python</code> &middot; <code>PHP</code> &middot; <code>SQL</code> &middot; <code>JavaScript</code> &middot; <code>HTML/CSS</code> &middot; <code>REST/Backend Fundamentals</code></p>
-
-### Data analysis and scientific computing
-<p><code>MATLAB</code> &middot; <code>Pandas</code> &middot; <code>NumPy</code> &middot; <code>Scikit-learn</code> &middot; <code>Matplotlib</code></p>
-
-### Engineering workflow and deployment
-<p><code>Linux</code> &middot; <code>Docker Desktop</code> &middot; <code>Git</code> &middot; <code>GitHub</code> &middot; <code>CLI Tools</code> &middot; <code>VS Code</code> &middot; <code>Seq Logging</code></p>
-
 <!--
 ## Work Experience
 
